@@ -1,0 +1,4 @@
+# CODEOWNERS file for dataparts/.github
+# See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/ustomizing-your-repository/about-code-owners
+## Default owners for everything in the repo
+* @dataparts/lgf-engg
