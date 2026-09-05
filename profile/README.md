@@ -1,7 +1,5 @@
 # dataparts
 
-[dataparts.com](https://www.dataparts.com/)
+[dataparts.ai](https://www.dataparts.ai/)
 
-## Overview
-
-Public view. Stay tuned...
+Secured & Trusted Unstructured Data Interaction and Experience Serving platform
